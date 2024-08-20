@@ -1,6 +1,6 @@
  # C# Dependency Injection with a Concrete Class
 
- Pass an class into another in the:  
+ Pass a class into another in the:  
 
 - constructor  
 - method  
